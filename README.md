@@ -144,10 +144,7 @@ Each repository includes comprehensive documentation:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
-### Code of Conduct
-Be respectful, inclusive, and professional. See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+We welcome contributions!
 
 ### Security
 Found a security issue? Please email [security@opility.com](mailto:security@opility.com) instead of using GitHub issues.
