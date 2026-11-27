@@ -1,6 +1,6 @@
 # Opility — Build • Automate • Grow
 
-![Opility Banner](https://img.shields.io/badge/Opility-AI%20Automation%20%7C%20SaaS%20Implementation%20%7C%20Workflow%20Automation-2563eb?style=for-the-badge)
+![Opility — Build • Automate • Grow](./assets/opility-four-division-lockup-v1.png)
 
 **Empowering businesses with AI-driven automation, SaaS implementation expertise, and intelligent workflow design.**
 
